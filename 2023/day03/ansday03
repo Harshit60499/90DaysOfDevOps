@@ -1,0 +1,4 @@
+1. to view what is written in a file, type cat <filename>
+2. to change the access, do chmod 4/3/1 or 777 where 1 is for execute and 3 for write and excute and 4 for read only
+3. history
+4. rm <filename>
